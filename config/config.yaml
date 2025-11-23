@@ -123,8 +123,6 @@ platforms:
     name: "虎扑"
   - id: "cls"
     name: "财联社"
-  - id: "news.qq"
-    name: "腾讯新闻"
   - id: "zaochenbao"
     name: "早晨报"
   - id: "sputniknews"  
